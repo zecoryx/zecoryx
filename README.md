@@ -29,6 +29,13 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br>Express.js</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" /><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass" /><br>Sass</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" alt="Material UI" /><br>Material UI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=chakraui" width="48" alt="Chakra UI" /><br>Chakra UI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram Bot" /><br>Telegram Bot</td>
+  </tr>
 </table>
 
 ---
@@ -56,7 +63,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=onestar&no-frame=true&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=onestar&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
