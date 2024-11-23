@@ -63,21 +63,39 @@
             <br>Material UI
         </td>
     </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Sass_Logo.svg" width="48" height="48" alt="Sass" />
+            <br>Sass
+        </td>
+        <td align="center" width="96">
+            <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://expressjs.com/images/express-facebook-share.png" width="48" height="48" alt="Express.js" />
+            <br>Express.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Telegram_Logo.svg/1200px-Telegram_Logo.svg.png" width="48" height="48" alt="Telegram Bot" />
+            <br>Telegram Bot
+        </td>
+    </tr>
 </table>
 <br/>
 
 ## :trophy: EternityEgo's Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itkncoder&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternityEgo&theme=github_dark) 
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
     
-<a href="https://github.com/itkncoder/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=itkncoder">
+<a href="https://github.com/EternityEgo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=EternityEgo">
 </a>
-    <a href="https://github.com/itkncoder?tab=followers">
-        <img src="https://img.shields.io/github/followers/itkncoder?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/EternityEgo?tab=followers">
+        <img src="https://img.shields.io/github/followers/EternityEgo?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p> 
