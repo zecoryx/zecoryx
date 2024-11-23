@@ -59,38 +59,6 @@
             <br>Chakra UI
         </td>
         <td align="center" width="96">
-            <img src="https://img.icons8.com/color/512/redux.png" width="48" height="48" alt="Redux" />
-            <br>Redux
-        </td>
-        <td align="center" width="96">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" height="48" alt="Figma" />
-            <br>Figma
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React-native" />
-            <br>React Native
-        </td>
-        <td align="center" width="96">
-            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="48" height="48" alt="Unity" />
-            <br>Unity
-        </td>
-        <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-            <br>GitHub
-        </td>
-        <td align="center" width="96">
-            <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="48" height="48" alt="Zustand" />
-            <br>Zustand
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/npm/sass@1.35.1/assets/images/logo.svg" width="48" height="48" alt="Sass" />
-            <br>Sass
-        </td>
-        <td align="center" width="96">
             <img src="https://mui.com/static/logo.png" width="48" height="48" alt="Material UI" />
             <br>Material UI
         </td>
