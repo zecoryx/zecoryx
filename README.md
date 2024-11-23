@@ -46,32 +46,46 @@
 ## 📂 Portfolio
 
 ### Featured Projects  
-- https://real-project-gamma.vercel.app/policy.html: A responsive e-commerce web app built with **React**, **ChakraUi**, and **Firebase**.  
+- https://real-project-gamma.vercel.app/: A responsive e-commerce web app built with **React**, **ChakraUi**, and **Firebase**.  
 - https://eternity-ego.vercel.app/: A blog platform using **React.js**, **TailwindCss**, and **MongoDB**.
   
 ---
-
 ## 🏆 GitHub Stats & Trophies
 
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EternityEgo&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EternityEgo&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="100%" />
 </p>
 
+<!-- GitHub Streak Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EternityEgo&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EternityEgo&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
+<!-- GitHub Trophies Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=onestar&no-frame=true&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=juicyfresh&row=1&column=5&no-frame=true" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
 
 ## 👀 Views and Followers  
 
+<!-- Views and Followers Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EternityEgo" alt="Profile Views" />  
-  <a href="https://github.com/EternityEgo?tab=followers"><img src="https://img.shields.io/github/followers/EternityEgo?label=Followers&style=social" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=EternityEgo&color=gray&style=flat" alt="Profile Views" />
+  <a href="https://github.com/EternityEgo?tab=followers">
+    <img src="https://img.shields.io/github/followers/EternityEgo?label=Follow&style=social&color=blue" alt="Followers" />
+  </a>
 </p>
 
 ---
+
+## 📜 About Me
+
+<p align="center">
+  I'm a passionate developer and enthusiast of technology, with a deep interest in coding, AI, and personal growth. I love to explore new challenges and share my journey with the community.
+</p>
+
+---
+
