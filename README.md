@@ -62,6 +62,10 @@
             <img src="https://mui.com/static/logo.png" width="48" height="48" alt="Material UI" />
             <br>Material UI
         </td>
+        <td align="center" width="96">
+            <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" height="48" alt="Material UI" />
+            <br>Material UI
+        </td>
     </tr>
     <tr>
         <td align="center" width="96">
