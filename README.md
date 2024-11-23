@@ -33,12 +33,11 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" /><br>Bootstrap</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass" /><br>Sass</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" alt="Material UI" /><br>Material UI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=chakraui" width="48" alt="Chakra UI" /><br>Chakra UI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram Bot" /><br>Telegram Bot</td>
+    <td align="center" width="96"><img src="https://files.raycast.com/7oaucgd6fh2sjztkc0q999qoyfy4" width="48" alt="Chakra UI" /><br>Chakra UI</td>
+    <td align="center" width="96"><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="48" alt="Telegram Bot" /><br>Telegram Bot</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=reactnative" width="48" alt="React Native" /><br>React Native</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=eva" width="48" alt="EVA Design System" /><br>EVA Design</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" alt="React Native" /><br>React Native</td>
   </tr>
 </table>
 
@@ -47,10 +46,9 @@
 ## 📂 Portfolio
 
 ### Featured Projects  
-- [**Project 1**](#): A responsive e-commerce web app built with **React**, **Tailwind**, and **Firebase**.  
-- [**Project 2**](#): A blog platform using **Next.js**, **TypeScript**, and **MongoDB**.  
-- [**Project 3**](#): Telegram bot automation system with **Node.js** and **Telegram Bot API**.  
-
+- https://real-project-gamma.vercel.app/policy.html: A responsive e-commerce web app built with **React**, **ChakraUi**, and **Firebase**.  
+- https://eternity-ego.vercel.app/: A blog platform using **React.js**, **TailwindCss**, and **MongoDB**.
+  
 ---
 
 ## 🏆 GitHub Stats & Trophies
