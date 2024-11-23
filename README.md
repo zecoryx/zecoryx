@@ -1,4 +1,4 @@
-![EternityEgo](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Lazizbek+Abdullayev;I'm+EternityEgo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Lazizbek+Abdullayev;I'm+EternityEgo!)
 
 ---
 
@@ -36,6 +36,10 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=chakraui" width="48" alt="Chakra UI" /><br>Chakra UI</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram Bot" /><br>Telegram Bot</td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=reactnative" width="48" alt="React Native" /><br>React Native</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=eva" width="48" alt="EVA Design System" /><br>EVA Design</td>
+  </tr>
 </table>
 
 ---
@@ -51,19 +55,16 @@
 
 ## 🏆 GitHub Stats & Trophies
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=EternityEgo&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternityEgo&theme=github_dark" alt="GitHub Profile Summary" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EternityEgo&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=onestar&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EternityEgo&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EternityEgo&theme=onestar&no-frame=true&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,14 +77,3 @@
 </p>
 
 ---
-
-## ✨ Fun and Trending Elements
-
-- **Random Dev Joke:**  
-  > “Why do programmers prefer dark mode? Because light attracts bugs!”  
-
-- **Weekly Coding Goal:**  
-  - [ ] Learn **Docker** basics.  
-  - [ ] Build a new **portfolio project**.  
-  - [ ] Contribute to an **open-source project**.  
-
