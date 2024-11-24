@@ -38,6 +38,7 @@
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" alt="React Native" /><br>React Native</td>
+    <td align="center" width="96"><img src="https://webhostinggeeks.com/blog/wp-content/uploads/2023/05/Node.js_Web_Server-980x589-optimized.png" width="48" alt="React Native" /><br>Node Js</td>
   </tr>
 </table>
 
