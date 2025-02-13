@@ -98,7 +98,10 @@
 ## 📜 About Me
 
 <p align="center">
-  I'm a frontend developer, I'm very interested in and support AI, I'm positive about making new friends.
+EternetyEgo – a FullStack developer driven by the harmony of thought and code. In every project,
+I strive to identify system weaknesses and transform them into a flawlessly functioning mechanism.
+
+**For me, programming is not just about writing code; it is the art of breaking limitations and seizing control.**
 </p>
 
 ---
