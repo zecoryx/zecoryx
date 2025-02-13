@@ -38,6 +38,10 @@
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" alt="React Native" /><br>React Native</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux" /><br>Redux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" alt="Material" /><br>Material UI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" alt="kali" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="figma" /><br>Figma</td>
   </tr>
 </table>
 
