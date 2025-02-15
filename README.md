@@ -2,7 +2,7 @@
 
 ---
 
-#  😉 Hi there, I'm EternityEgo | I'm FullStack Developer   
+#  💻 Hi there, I'm EternityEgo | I'm FullStack Developer   
 - ✍ You can find my projects [here](#portfolio).  
 - 🌱 I’m currently learning **Web Development && CyberSecurity** and improving my skills.  
 - 👯 I’m looking to collaborate on **open-source projects**.  
