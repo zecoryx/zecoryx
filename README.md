@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/EternetyEgo/cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternetyEgo&theme=github_dark)" alt="Profile Details" />
   </a>
 </p>
 
@@ -67,16 +67,16 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/EternetyEgo/cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternetyEgo&theme=github_dark)" alt="Most Commit Language" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/EternetyEgo/cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternetyEgo&theme=github_dark)" alt="Stats" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/EternetyEgo/cards/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8)" alt="Productive Time" />
   </a>
 </p>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   <h2 align="center">💛 Visitor count 💛</h2>
-  <img src="https://profile-counter.glitch.me/muki01/count.svg" />
+  <img src="![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)" />
 </div>
 
 ---
