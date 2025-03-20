@@ -58,34 +58,22 @@
 ## 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternetyEgo&theme=github_dark)" alt="Profile Details" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternetyEgo&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternetyEgo&theme=github_dark)" alt="Most Commit Language" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternetyEgo&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternetyEgo&theme=github_dark)" alt="Stats" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8)" alt="Productive Time" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternetyEgo&theme=github_dark" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </p>
-
 
 ---
 
 ## 👀 Views and Followers  
 
-<!-- Views and Followers Section -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EternetyEgo&color=gray&style=flat" alt="Profile Views" />
   <a href="https://github.com/EternetyEgo?tab=followers">
@@ -95,7 +83,7 @@
 
 <div align="center">
   <h2 align="center">💛 Visitor count 💛</h2>
-  <img src="![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=EternetyEgo" alt="Visitor Badge" />
 </div>
 
 ---
