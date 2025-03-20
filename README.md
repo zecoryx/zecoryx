@@ -93,6 +93,11 @@
   </a>
 </p>
 
+<div align="center">
+  <h2 align="center">💛 Visitor count 💛</h2>
+  <img src="https://profile-counter.glitch.me/muki01/count.svg" />
+</div>
+
 ---
 
 ## 📜 About Me
