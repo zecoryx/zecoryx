@@ -53,7 +53,27 @@
 - https://real-project-gamma.vercel.app/: A responsive e-commerce web app built with **React**, **ChakraUi**, and **Firebase**.  
 - https://eternity-ego.vercel.app/: A blog platform using **React.js**, **TailwindCss**, and **MongoDB**.
 - https://oneticket.uz/: A concert website using **React.js**, **Chakra ui**, and **MongoDB**, **ExpressJs**.
-  
+
+---
+
+=== 📊 Technology Distribution Analysis
+[cols="3*^",frame=none,grid=none]
+|===
+| Category | Total Technologies | Notable Technologies
+| Fronend Development | 2 | React, Next.js
+| Mobile Development | 2 | React Native
+| Testing Frameworks | 3 | Jest, ESlint
+| Animation Libraries | 2 | Framer Motion, Three.js
+| Database Solutions | 4 | MongoDB, Firebase 
+| Authentication | 3 | JWT, OAuth, Firebase Auth, NextAuth
+| API Tools | 3 | Postman, Swagger, GraphQL
+| Performance Optimization | 1 | Webpack
+| Containerization | 1 | Docker
+| Continuous Integration | 3 | GitHub Actions, Git, Gitlab
+| Design System | 5+ |  Radix UI, Chakra UI, Ant Design, Shad cn, MUI
+| State Management | 4 | Redux, Context API
+|===
+
 ---
 ## 🏆 GitHub Stats & Trophies
 
