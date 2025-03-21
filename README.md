@@ -14,7 +14,7 @@
 
 > Technologies and tools I have worked with and am passionate about:
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>HTML</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>CSS</td>
@@ -76,15 +76,15 @@
 ---
 ## 🏆 GitHub Stats & Trophies
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternetyEgo&theme=github_dark" alt="Profile Details" />
 </p>
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternetyEgo&theme=github_dark" alt="Most Commit Language" />
 </p>
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternetyEgo&theme=github_dark" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </p>
