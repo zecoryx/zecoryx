@@ -89,6 +89,17 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </p>
 
+### 📈 GitHub Stats:
+
+![GitHub Stats](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+### 🐍 Contribution Snake:
+
+![Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 👀 Views and Followers  
