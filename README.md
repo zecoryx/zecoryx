@@ -74,20 +74,6 @@
 | State Management      | 2                 | Redux, Context API                         |
 
 ---
-## 🏆 GitHub Stats & Trophies
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternetyEgo&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternetyEgo&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternetyEgo&theme=github_dark" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EternetyEgo&theme=github_dark&utcOffset=8" alt="Productive Time" />
-</p>
 
 ### 📈 GitHub Stats:
 
@@ -115,7 +101,7 @@
   <h2 align="center">💛 Visitor count 💛</h2>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://yourwebsite.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Badge" />
 </div>
-
+https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
 ---
 
 ## 📜 About Me
