@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Lazizbek+Abdullayev;I'm+EternityEgo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Lazizbek+Abdullayev;I'm+Zecoryx!)
 
 ---
 
-#  💻 Hi there, I'm EternityEgo | I'm FullStack Developer   
+#  💻 Hi there, I'm Zecoryx | I'm FullStack Developer   
 - ✍ You can find my projects [here](#portfolio).  
 - 🌱 I’m currently learning **Web Development && CyberSecurity** and improving my skills.  
 - 👯 I’m looking to collaborate on **open-source projects**.  
@@ -93,9 +93,9 @@
 ## 👀 Views and Followers  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EternetyEgo&color=gray&style=flat" alt="Profile Views" />
-  <a href="https://github.com/EternetyEgo?tab=followers">
-    <img src="https://img.shields.io/github/followers/EternetyEgo?label=Follow&style=social&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Zecoryx&color=gray&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Zecoryx?tab=followers">
+    <img src="https://img.shields.io/github/followers/Zecoryx?label=Follow&style=social&color=blue" alt="Followers" />
   </a>
 </p>
 
@@ -110,11 +110,10 @@
 ## 📜 About Me
 
 <p align="center">
-EternetyEgo – a FullStack developer driven by the harmony of thought and code. In every project,
+Zecoryx – a FullStack developer driven by the harmony of thought and code. In every project,
 I strive to identify system weaknesses and transform them into a flawlessly functioning mechanism.
 
 **For me, programming is not just about writing code; it is the art of breaking limitations and seizing control.**
 </p>
 
 ---
-
