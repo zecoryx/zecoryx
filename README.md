@@ -90,22 +90,9 @@
 
 ---
 
-## 👀 Views and Followers  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zecoryx&color=gray&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Zecoryx?tab=followers">
-    <img src="https://img.shields.io/github/followers/Zecoryx?label=Follow&style=social&color=blue" alt="Followers" />
-  </a>
-</p>
-
-<div align="center">
-  <h2 align="center">💛 Visitor count 💛</h2>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://yourwebsite.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Badge" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 ## 📜 About Me
 
