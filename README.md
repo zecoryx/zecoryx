@@ -66,14 +66,16 @@
 | Animation Libraries   | 2                 | Framer Motion, Three.js                    |
 | Database Solutions    | 2                 | MongoDB, Firebase                          |
 | Authentication        | 4                 | JWT, OAuth, Firebase Auth, NextAuth        |
-| API Tools            | 3                 | Postman, Swagger, GraphQL                  |
+| API Tools            | 3                  | Postman, Swagger, GraphQL                  |
 | Performance Optimization | 1              | Webpack                                    |
 | Containerization      | 1                 | Docker                                     |
 | Continuous Integration| 3                 | GitHub Actions, Git, Gitlab                |
-| Design System        | 5+                 | Radix UI, Chakra UI, Ant Design, Shadcn, MUI |
+| Design System        | 5+                 | Chakra UI, Ant Design, Shadcn, MUI |
 | State Management      | 2                 | Redux, Context API                         |
 
 ---
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
 ### 📈 GitHub Stats:
 
@@ -101,8 +103,9 @@
   <h2 align="center">💛 Visitor count 💛</h2>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://yourwebsite.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Visitor Badge" />
 </div>
-https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif
+
 ---
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 ## 📜 About Me
 
