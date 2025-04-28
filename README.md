@@ -51,7 +51,7 @@
 
 ### Featured Projects  
 - https://real-project-gamma.vercel.app/: A responsive e-commerce web app built with **React**, **ChakraUi**, and **Firebase**.  
-- https://eternity-ego.vercel.app/: A blog platform using **React.js**, **TailwindCss**, and **MongoDB**.
+- https://zecoryx.uz/: A portfolio platform using **React.js**, **TailwindCss**, and **MongoDB**.
 - https://oneticket.uz/: A concert website using **React.js**, **Chakra ui**, and **MongoDB**, **ExpressJs**.
 
 ---
