@@ -79,15 +79,12 @@
 
 ### 📈 GitHub Stats:
 
-![GitHub Stats](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![GitHub Stats](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GitHub Languages](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GitHub Languages](https://raw.githubusercontent.com/vaxerski/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Zecoryx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zecoryx&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecoryx&layout=compact&theme=radical)
 
 ### 🐍 Contribution Snake:
 
-![Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/zecoryx/zecoryx/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
