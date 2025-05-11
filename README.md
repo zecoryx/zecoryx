@@ -84,7 +84,8 @@
 
 ### 🐍 Contribution Snake:
 
-![Snake animation](https://github.com/zecoryx/zecoryx/blob/output/github-contribution-grid-snake.svg)
+![Snake GIF](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
