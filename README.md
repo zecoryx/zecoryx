@@ -31,10 +31,6 @@
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
-### 📈 GitHub Stats:
-
-![Zecoryx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zecoryx&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecoryx&layout=compact&theme=radical)
 
 ### 🐍 Contribution Snake:
 
