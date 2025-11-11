@@ -10,42 +10,6 @@
 
 ---
 
-## ⚙️ My Favorite Tools and Technologies
-
-> Technologies and tools I have worked with and am passionate about:
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br>TypeScript</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" /><br>Next js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br>Express js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=webpack" width="48" alt="Webpack" /><br>Webpack</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="nodejs" /><br>Node js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sass" width="48" alt="Sass" /><br>Sass</td>
-    <td align="center" width="96"><img src="https://files.raycast.com/7oaucgd6fh2sjztkc0q999qoyfy4" width="48" alt="Chakra UI" /><br>Chakra UI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Express.js" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="fastapi" /><br>Chakra ui</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" alt="React Native" /><br>React Native</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux" /><br>Redux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=materialui" width="48" alt="Material" /><br>Material UI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" alt="kali" /><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="figma" /><br>Figma</td>
-  </tr>
-</table>
-
-
 ### 📊 Technology Distribution Analysis
 
 | Category               | Total Technologies | Notable Technologies                         |
