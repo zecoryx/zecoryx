@@ -12,20 +12,20 @@
 
 ### 📊 Technology Distribution Analysis
 
-| Category               | Total Technologies | Notable Technologies                         |
-|------------------------|-------------------|---------------------------------------------|
-| Frontend Development  | 2                 | React, Next.js                              |
-| Mobile Development    | 1                 | React Native                               |
-| Testing Frameworks    | 3                 | Jest, ESlint                               |
-| Animation Libraries   | 2                 | Framer Motion, Three.js                    |
-| Database Solutions    | 2                 | MongoDB, Firebase                          |
-| Authentication        | 4                 | JWT, OAuth, Firebase Auth, NextAuth        |
-| API Tools            | 3                  | Postman, Swagger, GraphQL                  |
-| Performance Optimization | 1              | Webpack                                    |
-| Containerization      | 1                 | Docker                                     |
-| Continuous Integration| 3                 | GitHub Actions, Git, Gitlab                |
-| Design System        | 5+                 | Chakra UI, Ant Design, Shadcn, MUI |
-| State Management      | 2                 | Redux, Context API                         |
+| Category               | Total Technologies | Notable Technologies                       |
+|------------------------|--------------------|--------------------------------------------|
+| Frontend Development  | 2                   | React, Next.js                             |
+| Mobile Development    | 1                   | React Native                               |
+| Testing Frameworks    | 3                   | Jest, ESlint                               |
+| Animation Libraries   | 2                   | Framer Motion, Three.js, Anime.js          |
+| Database Solutions    | 2                   | MongoDB, Firebase, PostgreSql              |
+| Authentication        | 4                   | JWT, OAuth, Firebase Auth, NextAuth        |
+| API Tools             | 3                   | Postman, Swagger, GraphQL                  |
+| Performance Optimization | 1                | Webpack                                    |
+| Containerization      | 1                   | Docker                                     |
+| Continuous Integration| 3                   | GitHub Actions, Git, Gitlab                |
+| Design System         | 5+                  | Chakra UI, TailwindCss, Shadcn, MUI        |
+| State Management      | 2                   | Redux, Context API                         |
 
 ---
 
@@ -38,17 +38,13 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
----
-
 ## 📜 About Me
 
 <p align="center">
 Zecoryx – a FullStack developer driven by the harmony of thought and code. In every project,
 I strive to identify system weaknesses and transform them into a flawlessly functioning mechanism.
 
-**For me, programming is not just about writing code; it is the art of breaking limitations and seizing control.**
+For me, programming is not just about writing code; it is the art of breaking limitations and seizing control.
 </p>
 
 ---
