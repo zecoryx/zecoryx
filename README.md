@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=30&weight=700&lines=Hi,I'm+Zecoryx!)
 
-### 17​> y.o | full-stack engineer² | building things | learning
+### 17​> y.o | swe² | building things | learning smth
 
 
 
